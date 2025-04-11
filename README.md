@@ -12,7 +12,7 @@ An interactive Excel dashboard analyzing KL Rahul’s performance in ODI, T20, a
 - Cleaned and visualized player performance data
 - Highlighted key metrics like dismissals, averages, and trends  
 📂 **Skills**: Excel, Data Cleaning, Data Analysis  
-🔗 [View Project on GitHub](https://github.com/yourusername/kl-rahul-dashboard)
+🔗  [View Excel Dashboard](excel_project.xlsx)
 
 ---
 
