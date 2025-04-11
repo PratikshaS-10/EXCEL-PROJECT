@@ -22,4 +22,4 @@ A console-based mental health assessment app that gives feedback based on user i
 - Uses binary file storage to securely track scores
 - Features engaging quizzes and feedback
 📂 **Skills**: C programming, File handling, Console UX  
-🔗 [GitHub Repository](https://github.com/PratikshaS-10/C-Project)
+🔗 [GitHub Repository](c.c)
