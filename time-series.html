@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Time Series Forecasting | Pratiksha</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Time Series Forecasting – AAPL Stock</h1>
+    <nav><a href="index.html">← Back to Home</a></nav>
+  </header>
+
+  <section>
+    <h2>📊 Overview</h2>
+    <p>
+      This project analyzes Apple Inc.'s stock price history and forecasts future trends using ARIMA,
+      Holt-Winters, and Prophet. The models aim to predict 14 years of business days into the future,
+      based on real AAPL data from 1980 to 2025.
+    </p>
+  </section>
+
+  <section>
+    <h2>📈 Visualizations</h2>
+
+    <!-- Visualization 1: AAPL Price History -->
+    <h3>1. AAPL Stock Price from 1980-2025</h3>
+    <img src="assets/aapl-price-history.png" alt="AAPL Historical Price" style="max-width: 100%;">
+    <p><i>Figure 1: Historical AAPL stock prices showing the trend over the years. The chart visualizes the price fluctuations and long-term growth.</i></p>
+
+    <!-- Visualization 2: ARIMA Fitted Values -->
+    <h3>2. ARIMA Model: Original vs Fitted</h3>
+    <img src="assets/arima-fitted.png" alt="ARIMA Fitted" style="max-width: 100%;">
+    <p><i>Figure 2: The ARIMA model’s fitted values plotted alongside the original data. This demonstrates how well the ARIMA model captures the historical data.</i></p>
+
+    <!-- Visualization 3: ARIMA Forecast -->
+    <h3>3. ARIMA Model Forecast</h3>
+    <img src="assets/arima-forecast.png" alt="ARIMA Forecast" style="max-width: 100%;">
+    <p><i>Figure 3: ARIMA’s forecasted future stock prices for AAPL. The forecast extends over a period of 14 years, predicting trends based on historical data.</i></p>
+
+    <!-- Visualization 4: ARIMA Residuals -->
+    <h3>4. ARIMA Residuals</h3>
+    <img src="assets/arima-residuals.png" alt="ARIMA Residuals" style="max-width: 100%;">
+    <p><i>Figure 4: The residuals of the ARIMA model, which show the difference between the actual values and the predicted values. These residuals help in model diagnostics.</i></p>
+
+    <!-- Visualization 5: Holt-Winters Fitted vs Original -->
+    <h3>5. Holt-Winters Model: Original vs Fitted</h3>
+    <img src="assets/holtwinters-fitted.png" alt="Holt-Winters Fitted" style="max-width: 100%;">
+    <p><i>Figure 5: The Holt-Winters model’s fitted values compared to the original AAPL data. This shows how well the model captures seasonal variations and trends.</i></p>
+
+    <!-- Visualization 6: Holt-Winters Forecast -->
+    <h3>6. Holt-Winters Model Forecast</h3>
+    <img src="assets/holtwinters-forecast.png" alt="Holt-Winters Forecast" style="max-width: 100%;">
+    <p><i>Figure 6: The forecasted AAPL stock prices using the Holt-Winters model. This model accounts for seasonality and trends in the data.</i></p>
+
+    <!-- Visualization 7: Holt-Winters Residuals -->
+    <h3>7. Holt-Winters Residuals</h3>
+    <img src="assets/holtwinters-residuals.png" alt="Holt-Winters Residuals" style="max-width: 100%;">
+    <p><i>Figure 7: The residuals of the Holt-Winters model, showing how well the model fits the data and if there are any patterns in the errors.</i></p>
+
+    <!-- Visualization 8: ARIMA vs Holt-Winters Forecast -->
+    <h3>8. ARIMA vs Holt-Winters Forecast Comparison</h3>
+    <img src="assets/arima-vs-holtwinters.png" alt="ARIMA vs Holt-Winters" style="max-width: 100%;">
+    <p><i>Figure 8: Comparison of the ARIMA and Holt-Winters forecasts. This helps to visualize the differences in predictions made by the two models.</i></p>
+
+    <!-- Visualization 9: Prophet Forecast -->
+    <h3>9. Prophet Model Forecast</h3>
+    <img src="assets/prophet-forecast.png" alt="Prophet Forecast" style="max-width: 100%;">
+    <p><i>Figure 9: Forecasted AAPL stock prices using the Prophet model. This model is designed to handle seasonal data and long-term trends.</i></p>
+    
+  </section>
+
+  <section>
+    <h2>📁 GitHub Repository</h2>
+    <p>
+      Code and notebook available at:
+      <a href="https://github.com/PratikshaS-10/time-series-forecasting" target="_blank">
+        github.com/PratikshaS-10/time-series-forecasting
+      </a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Pratiksha</p>
+  </footer>
+</body>
+</html>
