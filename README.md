@@ -5,7 +5,7 @@ Welcome to my project portfolio. Here are some of the things I've built:
 
 ---
 
-## 🏏 KL Rahul Cricket Dashboard (Excel)
+## 🏏PROJECT 1 : KL Rahul Cricket Dashboard (Excel)
 An interactive Excel dashboard analyzing KL Rahul’s performance in ODI, T20, and Test formats.
 
 - Used pivot tables, slicers, charts, and formulas
@@ -16,7 +16,7 @@ An interactive Excel dashboard analyzing KL Rahul’s performance in ODI, T20, a
 
 ---
 
-## 🧠 Mental Health Assessment App (C)
+## 🧠 PROJECT 2 : Mental Health Assessment App (C)
 A console-based mental health assessment app that gives feedback based on user input and scoring.
 
 - Uses binary file storage to securely track scores
