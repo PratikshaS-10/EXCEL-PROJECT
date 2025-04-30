@@ -1,5 +1,5 @@
 
-## 🏏PROJECT  : KL Rahul Cricket Dashboard (Excel)
+# 🏏KL Rahul Cricket Dashboard (Excel)
 
 ## Overview
 This project presents an **interactive Excel dashboard** designed to analyze KL Rahul's cricket performance across three formats: **ODI**, **T20**, and **Test**. The dashboard utilizes various Excel tools to clean, analyze, and visualize key performance metrics, helping to uncover valuable insights into the player's consistency and strengths.
