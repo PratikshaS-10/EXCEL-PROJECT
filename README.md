@@ -16,10 +16,3 @@ An interactive Excel dashboard analyzing KL Rahul’s performance in ODI, T20, a
 
 ---
 
-## 🧠 PROJECT 2 : Mental Health Assessment App (C)
-A console-based mental health assessment app that gives feedback based on user input and scoring.
-
-- Uses binary file storage to securely track scores
-- Features engaging quizzes and feedback
-📂 **Skills**: C programming, File handling, Console UX  
-🔗 [GitHub Repository](C-Project.c)
