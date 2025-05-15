@@ -23,7 +23,7 @@ This project presents an **interactive Excel dashboard** designed to analyze KL 
 
 ## Installation
 1. **Download the project file** from the repository.
-2. Open the **Excel file** (`excel_project.xlsx`) in Microsoft Excel.
+2. Open the **Excel file** (`Rahul_Excel_project.xlsx`) in Microsoft Excel.
 3. Interact with the dashboard using slicers to filter and view performance data by format, year, etc.
 
 ## How to Use
